@@ -16,6 +16,6 @@ CTF Challenge Logic Address:: 0x02acdf6d39451ed2a8c065fb3a027e89b7edeee8
 ```
 
 ```
-Proxy Admin Address:: 0x1804c8ab1f12e6bbf3894d4083f33e07309d1f38
+Proxy Admin Address:: 0x1804c8ab1f12e6bbf3894d4083f33e07309d1f38 (此地址不重要, 可以不用放注意力在這)
 Logic Contract Owner:: 0x0000000000000000000000000000000000000001
 ```
