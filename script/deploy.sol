@@ -6,6 +6,7 @@ import "forge-std/Test.sol";
 import "src/Logic.sol";
 import "src/Proxy.sol";
 
+// forge script --rpc-url https://rpc.ankr.com/eth_goerli --private-key <EOAPrivateKey> script/deploy.sol --broadcast --verifier etherscan
 
 contract createMockTokens is Test, Script {
     address proxyAdmin = msg.sender;

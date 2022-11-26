@@ -11,6 +11,11 @@ git clone --recursive https://github.com/finn79426/AppworksCTF.git
 - Deployed on Goerli Network
 
 ```
-CTF Challenge Proxy Address:: 0x4907c2a066b11ebeaf4ae85af8fe3145b50309e0
-CTF Challenge Logic Address:: 0xeabc1341f889622d2c6d976c7628d0a7b3f22a31
+CTF Challenge Proxy Address:: 0xdcbdf6c8520d5366abd2150dff45da90002b4436
+CTF Challenge Logic Address:: 0x02acdf6d39451ed2a8c065fb3a027e89b7edeee8
+```
+
+```
+Proxy Admin Address:: 0x1804c8ab1f12e6bbf3894d4083f33e07309d1f38
+Logic Contract Owner:: 0x0000000000000000000000000000000000000001
 ```
