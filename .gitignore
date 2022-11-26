@@ -9,3 +9,6 @@ out/
 
 # Dotenv file
 .env
+
+# Hide the write-up
+test/
