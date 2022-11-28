@@ -1,6 +1,6 @@
 # Appworks Blockchain CTF
 
-This challenge have at least 2 bugs, your goal is calls `Logic.isChallengeSolve()` and expect no EVM revert.
+This challenge have at least 2 issues, your goal is calls `Logic.isChallengeSolve()` and expect no EVM revert.
 
 ```
 git clone --recursive https://github.com/finn79426/AppworksCTF.git
